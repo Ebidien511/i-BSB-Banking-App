@@ -1,6 +1,6 @@
 # i-BSB Banking App
 
-This is where it all started, my first application built without going through tutorial hell. The i-BSB Banking App is simple a C# application, making use of ASP.Net's Windows Form Framework. I developed this as a capstone project at UCT and it solidified my understanding in the concept of Object Oriented Programming. 
+This is where it all started, my first application built without going through tutorial hell. The i-BSB Banking App is a simple  C# application, making use of ASP.Net's Windows Form Framework. I developed this as a capstone project at UCT and it solidified my understanding in the concept of Object Oriented Programming. 
 #### IMPORTANT NOTE: 
 This project is quite old and was not finished due to time constraints so there may be a few errors here and there. There is still major room for improvement, and the coding practices in this project are still very novice compared to my current standards.
 
