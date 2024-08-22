@@ -20,4 +20,21 @@ There are 2 types of users:
   - Can only be performed after an account has been created.
   - Displays all the accounts opened for the day as well as their relevant information.
   - Calculates the sum of the balances of each account opened.
+## Installation
+### Prerequisites
+- Visual Studio
+  - .Net Desktop Development Package
+### Steps
+1. Open Visual Studio
+2. Click "Clone a Repository"
+3. Enter **https://github.com/Ebidien511/i-BSB-Banking-App.git** in Repository Location.
+4. Choose a file path for the repository to be saved.
+5. Click on the Start button to run the application.  
+   ![image](https://github.com/user-attachments/assets/34586746-b16e-427f-89cd-67ec441e94c2)
+
+
+ 
+  
+ 
+  
 
