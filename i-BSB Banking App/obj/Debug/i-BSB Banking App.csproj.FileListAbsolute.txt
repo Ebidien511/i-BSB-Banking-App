@@ -1,0 +1,29 @@
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\bin\Debug\i-BSB Banking App.exe.config
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\bin\Debug\i-BSB Banking App.exe
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\bin\Debug\i-BSB Banking App.pdb
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i-BSB Banking App.csproj.AssemblyReference.cache
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i-BSB Banking App.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i_BSB_Banking_App.Customer_Registration_Form.resources
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i_BSB_Banking_App.Customer_Transaction_Form.resources
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i_BSB_Banking_App.Form1.resources
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i_BSB_Banking_App.Properties.Resources.resources
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i-BSB Banking App.csproj.GenerateResource.cache
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i-BSB Banking App.csproj.CoreCompileInputs.cache
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i-BSB Banking App.exe
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i-BSB Banking App.pdb
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i_BSB_Banking_App.About.resources
+C:\Users\ebidi\OneDrive\Documents\VS\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i_BSB_Banking_App.Management_Form.resources
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\bin\Debug\i-BSB Banking App.exe.config
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\bin\Debug\i-BSB Banking App.exe
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\bin\Debug\i-BSB Banking App.pdb
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i-BSB Banking App.csproj.AssemblyReference.cache
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i_BSB_Banking_App.About.resources
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i_BSB_Banking_App.Customer_Registration_Form.resources
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i_BSB_Banking_App.Customer_Transaction_Form.resources
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i_BSB_Banking_App.Form1.resources
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i_BSB_Banking_App.Management_Form.resources
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i_BSB_Banking_App.Properties.Resources.resources
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i-BSB Banking App.csproj.GenerateResource.cache
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i-BSB Banking App.csproj.CoreCompileInputs.cache
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i-BSB Banking App.exe
+C:\Users\ebidi\OneDrive\Documents\VS\C#\Projects\i-BSB Banking App\i-BSB Banking App\obj\Debug\i-BSB Banking App.pdb
